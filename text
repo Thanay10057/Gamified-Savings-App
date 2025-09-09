@@ -1,0 +1,19 @@
+gamified_savings_app/
+│
+├── main.py
+├── models/
+│   ├── __init__.py
+│   ├── user.py
+│   ├── savings_goal.py
+│   └── achievement.py
+├── controllers/
+│   ├── __init__.py
+│   ├── savings_controller.py
+│   └── game_controller.py
+├── utils/
+│   ├── __init__.py
+│   └── database.py
+├── data/
+│   └── savings_data.json
+├── requirements.txt
+└── README.md
